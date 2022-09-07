@@ -13,3 +13,5 @@ In this project;
   - Java Swing Application
   - Design patterns (Factory and Singleton)  <br />
                                               are applied.
+
+This project was a team project. My teammates were Mustafa Onur Şarbak and Oral Denizhan Mısırlıoğlu
